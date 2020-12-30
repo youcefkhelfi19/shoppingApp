@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "109333077748",
+    "firebase_url": "https://newservices-b7f38.firebaseio.com",
+    "project_id": "newservices-b7f38",
+    "storage_bucket": "newservices-b7f38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109333077748:android:dcec3427f4a68f524488a1",
+        "android_client_info": {
+          "package_name": "com.example.foods_ordering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109333077748-1j3i4n0ejd5m433hisbra923khrl0kqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsEQgaeMHQjLR6etWBjMH6L8MzqZP1_xQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109333077748-1j3i4n0ejd5m433hisbra923khrl0kqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109333077748:android:30b00122820d79534488a1",
+        "android_client_info": {
+          "package_name": "com.example.pubdz_shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109333077748-1j3i4n0ejd5m433hisbra923khrl0kqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsEQgaeMHQjLR6etWBjMH6L8MzqZP1_xQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109333077748-1j3i4n0ejd5m433hisbra923khrl0kqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
